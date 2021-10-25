@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(145,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(196,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(198,20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(232,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(234,20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(329,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(331,20): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(472,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(490,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Nave_meteoro\main.cpp(505,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Nave_meteoro.vcxproj -> C:\Users\defsa\Documents\C++ files\Game\Nave_meteoro\Debug\Nave_meteoro.exe
